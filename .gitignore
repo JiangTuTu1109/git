@@ -15,3 +15,8 @@ Desktop.ini
 *.tmp
 *.swp
 *~
+
+
+
+
+node.modules/
